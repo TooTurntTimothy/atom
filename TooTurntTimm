@@ -1,0 +1,16 @@
+
+    atom/github#2124 - Review comments and summaries are editable in the review tab
+    atom/github#2102 - Checks statuses are included in the build status page of a PR item
+    atom/github#2195 - Avoid stalls when opening a branch associated with a PR that has a large (>1MB) patch
+    atom/github#2128 - Show a friendly message when the network isn't available (instead of crashing horribly 🙈), and attempt to reconnect when the network becomes available again
+    atom/atom#19579 - Improve handling of .gitignore edge cases
+    atom/atom#17813 - Enable multiple release channels (e.g., Atom, Atom Beta, and Atom Nightly) to be installed side-by-side on Windows
+    atom/atom#19594 - Improve reliability of "restart and install" operation when updating Atom
+    atom/atom#19556 - Add a new injection point setting to support parsing Rust macros via language injection
+    atom/atom#18738 - Show Tree-sitter grammars in the grammar selector
+    atom/atom#19528 - Assign originalFontSize when the Workspace is initialized
+    atom/find-and-replace#1095 - Add pcre2 ripgrep option for find-and-replace operations
+    atom/language-c#331 - Add noexcept and mutable and remove _Atomic from tree-sitter-cpp
+    atom/language-javascript#650 - Fix auto-indent when the previous line ends with a comment with a quote
+    atom/language-javascript#651 - Allow JS snippets to be used in Flow files
+    atom/language-php#360 - Fix syntax highlighting issue for flexible HEREDOC and NOWDOC in PHP 7.3
